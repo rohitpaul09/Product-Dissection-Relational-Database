@@ -1,7 +1,5 @@
 # Product-Dissection-for-Swiggy-Food-Delivery App
 
-The document "Product Dissection for Swiggy Food Delivery App" provides an in-depth analysis of Swiggy, a prominent food delivery service in India. Key points from the document include:
-
 1. **Company Overview**: Swiggy, founded in 2014 in Bangalore, India, is recognized for its quick delivery, a wide range of restaurant options, and user-friendly interface. It has significantly changed the landscape of food ordering and delivery in India.
 
 2. **Product Dissection and Problem-Solving**:
