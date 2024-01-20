@@ -6,6 +6,7 @@
     - **Convenience in Food Ordering**: Swiggy offers easy access to a variety of cuisines from local and popular restaurants, addressing the need for convenient food ordering.
     - **Efficient Delivery System**: It overcomes the time-consuming process of going out to eat or pick up food, particularly in busy urban areas.
     - **Diverse Food Options**: The platform caters to different tastes and dietary preferences with a wide range of food options.
+<img src="https://drive.google.com/uc?id=1CjoaCONvJMic1sOrj4LZNgodj8pL6lLe" alt="ERD SWIGGY" width="500" height="400">
 
 3. **Case Studies**:
     - **Addressing Time Constraints and Limited Food Access**: Swiggy provides a solution with a vast network of restaurant partners, offering a variety of culinary options and a user-friendly app for easy ordering and tracking.
@@ -23,8 +24,6 @@
   
 7. **Entity-Relationship (ER) diagram**:
     - The ER diagram is detailed and designed to help visualize the data architecture of Swiggy. It highlights essential parts of Swiggy's database, including the relationships between various entities such as Users, Restaurants, Orders, Deliveries, Payments, and Items. Each of these entities is described with specific attributes and relationships to other entities.
-
-<img src="https://drive.google.com/uc?id=1CjoaCONvJMic1sOrj4LZNgodj8pL6lLe" alt="ERD SWIGGY" width="500" height="400">
 
 8. **Conclusion**:
     - The study highlights Swiggy's operational framework and its impact on the food delivery ecosystem, demonstrating how it addresses real-world challenges through technological innovation and user-centric solutions.
